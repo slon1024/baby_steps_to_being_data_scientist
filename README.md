@@ -1,2 +1,4 @@
-# baby_steps_to_being_data_scientist
-Baby Steps to Being Data Scientist
+# Baby Steps to Being Data Scientist
+This presentation was preparing for the training [codepot 2015](http://codepot.pl)
+
+The problem which was solved taken from kaggle.com: [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand).
